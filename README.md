@@ -31,5 +31,14 @@ To use the RAT, run the main script and send the commands in a Discord channel w
 
 This project is intended for educational purposes only. Use it responsibly and in accordance with local laws and regulations.
 
+## Contact
+
+For any questions or support, feel free to reach out to me:
+
+- **Instagram**: [@1925days](https://www.instagram.com/1925days/)
+- **Email**: [DanielSantzs18@gmail.com](mailto:mailto:DanielSantzs18@gmail.com)
+- **Discord**: [https://discord.com/user/DanielSantzs](https://discord.com/users/1283088407052156982)
+- **Telegram**: [@DanielSantzs](https://t.me/@DanielSantzs)
+
 
 
