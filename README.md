@@ -39,7 +39,6 @@ This project is intended for educational purposes only. Use it responsibly and i
 
 For any questions or support, feel free to reach out to me:
 
-- **Instagram**: [@1925days](https://www.instagram.com/1925days/)
 - **Email**: [DanielSantzs18@gmail.com](mailto:mailto:DanielSantzs18@gmail.com)
 - **Discord**: [@DanielSantzs](https://discord.com/users/1283088407052156982)
 - **Telegram**: [@DanielSantzs](https://t.me/DanielSantzs)
