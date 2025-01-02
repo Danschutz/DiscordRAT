@@ -27,6 +27,9 @@ Available commands are:
 
 To use the RAT, run the main script and send the commands in a Discord channel where the bot is active. Ensure that the bot has the necessary permissions to read and send messages in the channel.
 
+### Note
+use python 3.9
+
 ## Legal Notice
 
 This project is intended for educational purposes only. Use it responsibly and in accordance with local laws and regulations.
