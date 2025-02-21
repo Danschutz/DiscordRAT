@@ -39,9 +39,7 @@ This project is intended for educational purposes only. Use it responsibly and i
 
 For any questions or support, feel free to reach out to me:
 
-- **Email**: [DanielSantzs18@gmail.com](mailto:mailto:DanielSantzs18@gmail.com)
-- **Discord**: [@DanielSantzs](https://discord.com/users/1283088407052156982)
-- **Telegram**: [@DanielSantzs](https://t.me/DanielSantzs)
+- **Telegram**: [@Nzthaan](https://t.me/Nzthaan)
 
 
 
